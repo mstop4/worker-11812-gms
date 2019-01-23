@@ -477,6 +477,14 @@
                 "resourcePath": "views\\fa669d44-b597-4a88-8763-16575241d693.yy",
                 "resourceType": "GMFolder"
             }
+        },
+        {
+            "Key": "fd2e04bd-6b5c-4547-84b6-b9122fbfdb48",
+            "Value": {
+                "id": "2468992b-674a-4f98-a2df-fac1cb3d1fae",
+                "resourcePath": "objects\\obj_transition\\obj_transition.yy",
+                "resourceType": "GMObject"
+            }
         }
     ],
     "script_order": [
