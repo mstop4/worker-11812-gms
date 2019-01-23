@@ -20,14 +20,14 @@ part_type_alpha2(part_cloudR, 0.375, 0);
 
 emitterL = part_emitter_create(ps);
 part_emitter_region(ps, emitterL, 
-					0, 0, obj_gameConfig.appCenter[? "y"], obj_gameConfig.appCenter[? "y"],
+					0, 0, obj_gameConfig.appCenterY, obj_gameConfig.appCenterY,
 					ps_shape_line, ps_distr_linear);
 					
 part_emitter_stream(ps, emitterL, part_cloudL, -20);
 					
 emitterR = part_emitter_create(ps);
 part_emitter_region(ps, emitterR, 
-					obj_gameConfig.appWidth, obj_gameConfig.appWidth, obj_gameConfig.appCenter[? "y"], obj_gameConfig.appCenter[? "y"],
+					obj_gameConfig.appWidth, obj_gameConfig.appWidth, obj_gameConfig.appCenterY, obj_gameConfig.appCenterY,
 					ps_shape_line, ps_distr_linear);
 					
 part_emitter_stream(ps, emitterR, part_cloudR, -20);

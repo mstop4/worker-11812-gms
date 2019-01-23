@@ -1,9 +1,8 @@
 appWidth = 1280;
 appHeight = 720;
 
-appCenter = ds_map_create();
-ds_map_add(appCenter, "x", appWidth / 2);
-ds_map_add(appCenter, "y", appHeight / 2);
+appCenterX = appWidth / 2;
+appCenterY = appHeight / 2;
 
 darkTheme = ds_map_create();
 ds_map_add(darkTheme, "textColour", c_white);
