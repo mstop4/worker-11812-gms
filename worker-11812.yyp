@@ -95,6 +95,14 @@
             }
         },
         {
+            "Key": "2e983ef6-41bc-4cb6-baed-b9b606d6b89d",
+            "Value": {
+                "id": "30e5a0fd-0ffe-4a69-9607-001d016a913e",
+                "resourcePath": "objects\\obj_steam\\obj_steam.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "304274d8-851e-43f5-93cc-68bacc3e59de",
             "Value": {
                 "id": "92b755e9-d037-40ea-8a6f-430dc4de0890",
