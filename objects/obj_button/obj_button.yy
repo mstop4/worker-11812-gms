@@ -1,0 +1,101 @@
+{
+    "id": "5d27a52e-fdaa-4227-bef0-0f610e4b6905",
+    "modelName": "GMObject",
+    "mvc": "1.0",
+    "name": "obj_button",
+    "eventList": [
+        {
+            "id": "566103f8-f6fd-4059-b72a-4020a619be65",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 8,
+            "m_owner": "5d27a52e-fdaa-4227-bef0-0f610e4b6905"
+        },
+        {
+            "id": "7040d784-343a-4f4e-ade4-241ef1449cf2",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "5d27a52e-fdaa-4227-bef0-0f610e4b6905"
+        },
+        {
+            "id": "2973c148-611d-42df-a1f7-eaffdf77b8d1",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "5d27a52e-fdaa-4227-bef0-0f610e4b6905"
+        }
+    ],
+    "maskSpriteId": "00000000-0000-0000-0000-000000000000",
+    "overriddenProperties": null,
+    "parentObjectId": "00000000-0000-0000-0000-000000000000",
+    "persistent": false,
+    "physicsAngularDamping": 0.1,
+    "physicsDensity": 0.5,
+    "physicsFriction": 0.2,
+    "physicsGroup": 0,
+    "physicsKinematic": false,
+    "physicsLinearDamping": 0.1,
+    "physicsObject": false,
+    "physicsRestitution": 0.1,
+    "physicsSensor": false,
+    "physicsShape": 1,
+    "physicsShapePoints": null,
+    "physicsStartAwake": true,
+    "properties": [
+        {
+            "id": "5acb77fa-6d80-4bef-9e9a-b86df4364b82",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 64,
+            "value": "fnt_Fondamento24",
+            "varName": "my_font",
+            "varType": 5
+        },
+        {
+            "id": "ad25b50f-6ae5-4218-b57a-27c14fa792a4",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "obj_gameConfig.lightTheme",
+            "varName": "my_theme",
+            "varType": 4
+        },
+        {
+            "id": "9b97c190-c527-46b0-9e46-d6c7607010e0",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "Button",
+            "varName": "my_label",
+            "varType": 2
+        }
+    ],
+    "solid": false,
+    "spriteId": "00000000-0000-0000-0000-000000000000",
+    "visible": true
+}

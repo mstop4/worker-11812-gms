@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "1263ff7c-4c2b-48a0-94b1-342c551a36f2",
+            "Value": {
+                "id": "7a5a9d99-339f-4b9a-9d9a-0ffcdf1524cc",
+                "resourcePath": "scripts\\initGameConfig\\initGameConfig.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "158ace5c-1aa8-466c-9543-994f76fd17ad",
             "Value": {
                 "id": "602fd30f-8ec6-44b6-b554-5abf6138c97e",
@@ -71,11 +79,35 @@
             }
         },
         {
+            "Key": "22e7a180-3fad-49ec-9c92-0130c246e651",
+            "Value": {
+                "id": "fa2cf61f-2f02-447b-a116-098a70b1219d",
+                "resourcePath": "fonts\\fnt_Fondamento48\\fnt_Fondamento48.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "271ce730-1c19-4987-b0f9-97980d856ed0",
             "Value": {
                 "id": "79211450-24e1-48d7-9652-97b8e97d40d5",
                 "resourcePath": "views\\271ce730-1c19-4987-b0f9-97980d856ed0.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "304274d8-851e-43f5-93cc-68bacc3e59de",
+            "Value": {
+                "id": "92b755e9-d037-40ea-8a6f-430dc4de0890",
+                "resourcePath": "fonts\\fnt_Fondamento36\\fnt_Fondamento36.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "35335ea6-75ff-463b-80b7-70d118538a23",
+            "Value": {
+                "id": "2bbafddd-2be6-445e-b694-95edf38ccd5a",
+                "resourcePath": "rooms\\room_loading\\room_loading.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -122,7 +154,7 @@
             "Key": "4ccb7508-b94c-4978-b868-ca23ed34b2f9",
             "Value": {
                 "id": "e08493ca-aed3-4329-ab9b-6ecdf62c823f",
-                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourcePath": "rooms\\room_title\\room_title.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -140,6 +172,22 @@
                 "id": "45810721-c2cb-4b29-9ebf-f29034a9a819",
                 "resourcePath": "sprites\\spr_figure5\\spr_figure5.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "5d27a52e-fdaa-4227-bef0-0f610e4b6905",
+            "Value": {
+                "id": "9dcd1b8e-93d3-4bb3-91e1-d4274a46619a",
+                "resourcePath": "objects\\obj_button\\obj_button.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "63ce6aed-fb73-4326-bab6-40e866b00b59",
+            "Value": {
+                "id": "723bab41-9825-4f2c-8e0f-22e4db36d94b",
+                "resourcePath": "objects\\obj_gameConfig\\obj_gameConfig.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -207,11 +255,27 @@
             }
         },
         {
+            "Key": "8094cb94-242f-4481-8aa7-a83864f28b27",
+            "Value": {
+                "id": "4f577b50-83cc-4f10-bddf-27bc05724af3",
+                "resourcePath": "objects\\obj_title\\obj_title.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "8427047f-9ef8-4c77-89f3-9c20623d07b6",
             "Value": {
                 "id": "88d69522-6611-42d4-b369-993bd00161ba",
                 "resourcePath": "options\\ios\\options_ios.yy",
                 "resourceType": "GMiOSOptions"
+            }
+        },
+        {
+            "Key": "883a1d37-692d-4846-a15e-517b19bf7813",
+            "Value": {
+                "id": "6a1fe971-1af4-42af-9929-0aeec3c80fec",
+                "resourcePath": "fonts\\fnt_Fondamento24\\fnt_Fondamento24.yy",
+                "resourceType": "GMFont"
             }
         },
         {
@@ -252,6 +316,14 @@
                 "id": "16b60652-d40e-4751-a0bc-6af1ac1c56c7",
                 "resourcePath": "views\\936111e9-efa8-4214-ace2-67e44ca4b4f5.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "9f89b667-7119-4c16-90a8-d916f740bd62",
+            "Value": {
+                "id": "b236ac63-1948-416e-86d6-416c6616d49d",
+                "resourcePath": "fonts\\fnt_Fondamento64\\fnt_Fondamento64.yy",
+                "resourceType": "GMFont"
             }
         },
         {
@@ -335,6 +407,22 @@
             }
         },
         {
+            "Key": "e8be99d5-eb92-48bf-98e4-37d55936e5d0",
+            "Value": {
+                "id": "89c332c7-ebe6-40b2-8d76-3997f6f74b0a",
+                "resourcePath": "fonts\\fnt_Fondamento56\\fnt_Fondamento56.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "eb64ea00-bb5e-4c92-adb0-418cfdea011c",
+            "Value": {
+                "id": "8dabddf9-cd93-44ab-8ea1-1f916c526113",
+                "resourcePath": "fonts\\fnt_Fondamento128\\fnt_Fondamento128.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "edd8fcc0-eb18-4eb0-90cb-03381dc23751",
             "Value": {
                 "id": "ea3eaf9a-fd23-44b6-aec7-bc153327d089",
@@ -351,6 +439,30 @@
             }
         },
         {
+            "Key": "f45734cf-40dd-472f-940b-8fdaccb55290",
+            "Value": {
+                "id": "75db0037-499c-4c98-87f7-a6680ac5ac29",
+                "resourcePath": "fonts\\fnt_Amarante20\\fnt_Amarante20.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "f99a5de6-9055-4532-ab3f-d6d709647211",
+            "Value": {
+                "id": "d439012c-cb76-4162-9816-6b7f6a7340e8",
+                "resourcePath": "fonts\\fnt_Fondamento40\\fnt_Fondamento40.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "fa563c07-fb2b-4de4-81fa-bab914e2cf7a",
+            "Value": {
+                "id": "69f594b0-2732-495e-9519-66c7084979e2",
+                "resourcePath": "scripts\\cleanUpGameConfig\\cleanUpGameConfig.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "fa669d44-b597-4a88-8763-16575241d693",
             "Value": {
                 "id": "655761d9-20d5-4db7-ba3e-f86685895f04",
@@ -360,7 +472,8 @@
         }
     ],
     "script_order": [
-        
+        "1263ff7c-4c2b-48a0-94b1-342c551a36f2",
+        "fa563c07-fb2b-4de4-81fa-bab914e2cf7a"
     ],
     "tutorial": ""
 }
