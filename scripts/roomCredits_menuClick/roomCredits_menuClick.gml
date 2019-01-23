@@ -2,7 +2,7 @@ with (obj_transition) {
 	current_alpha = 0;
 	target_alpha = 1;
 	colour = c_black;
-	alpha_delta = 1/90;
+	alpha_delta = 1/60;
 }
 
 obj_credits.alarm[1] = 60;

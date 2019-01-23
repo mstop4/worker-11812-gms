@@ -39,6 +39,22 @@
             }
         },
         {
+            "Key": "0caffd50-ed72-4f3a-9da7-6893bb0912b4",
+            "Value": {
+                "id": "ef565039-cdc8-4268-ba21-aefdc1ad0549",
+                "resourcePath": "objects\\obj_loading\\obj_loading.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "0e65505d-bb6e-4ac9-8834-5b0b092898d0",
+            "Value": {
+                "id": "b77cd409-6a22-4592-9177-f8442cfbb9a7",
+                "resourcePath": "sounds\\mus_bgm2\\mus_bgm2.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "0fadfa5f-884c-49a4-9587-64ad8d23c318",
             "Value": {
                 "id": "59a70a23-e9c1-41b7-9d92-8da6ca81db47",
@@ -292,6 +308,14 @@
                 "id": "3d33cc7f-7754-4047-8b50-caf3bc3a35a8",
                 "resourcePath": "views\\78ad40c6-7bdd-41c4-b62b-f1fabca53be7.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "78bbeb9d-f47a-405e-af28-d516ddcfb5d7",
+            "Value": {
+                "id": "70e31aac-4407-4ecc-b1a2-9c71e643248e",
+                "resourcePath": "sounds\\mus_bgm1\\mus_bgm1.yy",
+                "resourceType": "GMSound"
             }
         },
         {
