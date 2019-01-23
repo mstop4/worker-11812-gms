@@ -1,1 +1,1 @@
-is_hover = point_in_rectangle(mouse_x, mouse_y, left, top, right, bottom);
+if (can_click) is_hover = point_in_rectangle(mouse_x, mouse_y, left, top, right, bottom);

@@ -1,5 +1,5 @@
-draw_set_halign(fa_center);
-draw_set_valign(fa_center);
+draw_set_halign(h_align);
+draw_set_valign(v_align);
 draw_set_font(my_font);
 
 if (is_hover)

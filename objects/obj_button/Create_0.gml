@@ -1,4 +1,5 @@
 is_hover = false;
+can_click = false;
 
 draw_set_font(my_font);
 var _width = string_width(my_label);

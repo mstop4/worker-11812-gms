@@ -1,0 +1,1 @@
+url_open("https://www.purple-planet.com/");
