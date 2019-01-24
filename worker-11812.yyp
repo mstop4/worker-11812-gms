@@ -239,6 +239,14 @@
             }
         },
         {
+            "Key": "57e8926c-a425-497b-bacd-b36d47d65aaf",
+            "Value": {
+                "id": "07875d5a-dd01-40c5-82a3-aab35dff0a2d",
+                "resourcePath": "objects\\obj_main\\obj_main.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "5d27a52e-fdaa-4227-bef0-0f610e4b6905",
             "Value": {
                 "id": "9dcd1b8e-93d3-4bb3-91e1-d4274a46619a",
@@ -407,6 +415,14 @@
             }
         },
         {
+            "Key": "927defbf-4000-4eea-8b2c-98595eb87113",
+            "Value": {
+                "id": "5753a93f-6ee7-4271-a49b-e3d1a1c99b92",
+                "resourcePath": "rooms\\room_main\\room_main.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "936111e9-efa8-4214-ace2-67e44ca4b4f5",
             "Value": {
                 "id": "16b60652-d40e-4751-a0bc-6af1ac1c56c7",
@@ -503,6 +519,14 @@
             }
         },
         {
+            "Key": "d125a148-a4e1-48bb-94e6-6bd3e6e170ff",
+            "Value": {
+                "id": "67bafa8d-9dca-4afd-9ef2-27b4eff26e43",
+                "resourcePath": "objects\\obj_meter\\obj_meter.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "d9eb8f05-42f0-4bd9-ad77-b0b25598f045",
             "Value": {
                 "id": "a6075ddd-20bc-48e0-a86e-4e9c5ca84072",
@@ -532,6 +556,14 @@
                 "id": "8dabddf9-cd93-44ab-8ea1-1f916c526113",
                 "resourcePath": "fonts\\fnt_Fondamento128\\fnt_Fondamento128.yy",
                 "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "ed31a629-2c38-409a-8195-e57b7864fb93",
+            "Value": {
+                "id": "3c12a3a5-1e12-4f5a-99c2-effc515d6771",
+                "resourcePath": "scripts\\roomTitle_beginClick\\roomTitle_beginClick.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -612,6 +644,7 @@
         "fa563c07-fb2b-4de4-81fa-bab914e2cf7a",
         "0fadfa5f-884c-49a4-9587-64ad8d23c318",
         "c44d0323-de38-4b70-ae97-22ee335aa4b9",
+        "ed31a629-2c38-409a-8195-e57b7864fb93",
         "1a238b63-bd7d-4ba9-9ce4-7979f449b07f",
         "1988e36d-8470-434e-81a0-cca1b959d5a0",
         "61f543f1-6bb0-4ad3-b4b2-d5c0d1a836c3",
