@@ -6,5 +6,4 @@ with (obj_transition) {
 }
 
 alarm[0] = 60;
-
 global.bgm = audio_play_sound(mus_bgm1, 100, true);

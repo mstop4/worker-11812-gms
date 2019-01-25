@@ -5,7 +5,7 @@
     "name": "HTML5",
     "option_html5_allow_fullscreen": true,
     "option_html5_browser_title": "Worker #11812",
-    "option_html5_centregame": false,
+    "option_html5_centregame": true,
     "option_html5_display_cursor": true,
     "option_html5_facebook_app_display_name": "",
     "option_html5_facebook_id": "",
@@ -16,7 +16,7 @@
     "option_html5_google_tracking_id": "",
     "option_html5_icon": "${base_options_dir}\/html5\/fav.ico",
     "option_html5_index": "use_default",
-    "option_html5_interpolate_pixels": false,
+    "option_html5_interpolate_pixels": true,
     "option_html5_jsprepend": "",
     "option_html5_loadingbar": "Use Default",
     "option_html5_localrunalert": true,
@@ -30,7 +30,7 @@
     "option_html5_usebuiltinparticles": false,
     "option_html5_usesplash": false,
     "option_html5_version": {
-        "build": 1,
+        "build": 2,
         "major": 1,
         "minor": 0,
         "revision": 0
