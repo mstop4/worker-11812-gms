@@ -13,6 +13,16 @@
             "enumb": 0,
             "eventtype": 0,
             "m_owner": "c166ed80-e148-4621-be03-f540e141826b"
+        },
+        {
+            "id": "fa3cbaee-9f77-44e3-85cd-af9408e4e1aa",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "c166ed80-e148-4621-be03-f540e141826b"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -44,6 +54,20 @@
             "resourceFilter": 1023,
             "value": "46",
             "varName": "num_lights",
+            "varType": 1
+        },
+        {
+            "id": "46c58844-a15d-4071-b2df-eca8e7fc2722",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "3",
+            "varName": "num_hands",
             "varType": 1
         },
         {
