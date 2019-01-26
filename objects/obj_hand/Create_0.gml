@@ -1,0 +1,1 @@
+touch_index = -1;
