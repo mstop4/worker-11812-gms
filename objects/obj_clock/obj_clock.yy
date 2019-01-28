@@ -33,6 +33,36 @@
             "enumb": 0,
             "eventtype": 12,
             "m_owner": "c166ed80-e148-4621-be03-f540e141826b"
+        },
+        {
+            "id": "9b092d19-df2b-45b2-9924-570f39a603bf",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 10,
+            "eventtype": 7,
+            "m_owner": "c166ed80-e148-4621-be03-f540e141826b"
+        },
+        {
+            "id": "0827c23c-e203-47ca-a2bd-c6afbbed2b4b",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 2,
+            "m_owner": "c166ed80-e148-4621-be03-f540e141826b"
+        },
+        {
+            "id": "54a12000-4abc-41f2-8ac8-e2bf40f8d3ac",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 1,
+            "eventtype": 2,
+            "m_owner": "c166ed80-e148-4621-be03-f540e141826b"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -107,6 +137,34 @@
             "value": "322",
             "varName": "label_radius",
             "varType": 0
+        },
+        {
+            "id": "40545be7-8d7f-42b8-8f90-24e316987679",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "3",
+            "varName": "hand_pointing_threshold",
+            "varType": 0
+        },
+        {
+            "id": "67050d28-e498-4b9e-9f37-d2aaf48d87f5",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": true,
+            "rangeMax": 7,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "level",
+            "varType": 1
         }
     ],
     "solid": false,
