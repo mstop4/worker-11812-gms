@@ -47,6 +47,22 @@
             }
         },
         {
+            "Key": "0bbb53dd-c345-414c-8659-8d07f0f9fec2",
+            "Value": {
+                "id": "90def5b1-e2f4-46da-9e44-927e392b1453",
+                "resourcePath": "scripts\\startStayEmitter\\startStayEmitter.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "0ca8a224-95b5-49eb-94e1-e475028897e3",
+            "Value": {
+                "id": "5fabdf6b-afbe-497d-9efb-7a80db9f9dc0",
+                "resourcePath": "scripts\\stopStayEmitter\\stopStayEmitter.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "0caffd50-ed72-4f3a-9da7-6893bb0912b4",
             "Value": {
                 "id": "ef565039-cdc8-4268-ba21-aefdc1ad0549",
@@ -135,6 +151,14 @@
             }
         },
         {
+            "Key": "2008e71f-5a69-4605-80e5-70b9d2509fbc",
+            "Value": {
+                "id": "f96d1b58-db2b-41fe-9e66-3113ca0bb4bb",
+                "resourcePath": "scripts\\pulseDoneEmitter\\pulseDoneEmitter.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "21451f61-8199-49f8-a49d-8910b56442c8",
             "Value": {
                 "id": "b41b22a5-5666-4d68-a8bd-b5416f0a4e82",
@@ -148,6 +172,14 @@
                 "id": "fa2cf61f-2f02-447b-a116-098a70b1219d",
                 "resourcePath": "fonts\/fnt_Fondamento48\/fnt_Fondamento48.yy",
                 "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "245edb3f-b87c-449b-9d49-0971cff395af",
+            "Value": {
+                "id": "bfbb69b8-ffdc-46dd-a822-a75aff4b7c4e",
+                "resourcePath": "scripts\\stayEmitterStep\\stayEmitterStep.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -479,6 +511,14 @@
             }
         },
         {
+            "Key": "9e614856-2e55-46e2-8862-ecb1e66af457",
+            "Value": {
+                "id": "8ffa0dad-48e4-4db0-be1d-4d89a17438ff",
+                "resourcePath": "objects\\obj_bulbEffect\\obj_bulbEffect.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "9f4e68e2-c9cf-4f68-af17-71949ac025fa",
             "Value": {
                 "id": "37456d84-7520-49cc-8cb5-129de89d159e",
@@ -723,7 +763,11 @@
         "d9eb8f05-42f0-4bd9-ad77-b0b25598f045",
         "0dc9b2e4-2fa4-4d00-87df-4ee2c5769ae8",
         "091d18d9-fdf0-46b9-80a6-6199dba71987",
-        "5d396108-f2dd-48f1-b475-c3f7d974997a"
+        "5d396108-f2dd-48f1-b475-c3f7d974997a",
+        "245edb3f-b87c-449b-9d49-0971cff395af",
+        "0bbb53dd-c345-414c-8659-8d07f0f9fec2",
+        "0ca8a224-95b5-49eb-94e1-e475028897e3",
+        "2008e71f-5a69-4605-80e5-70b9d2509fbc"
     ],
     "tutorial": ""
 }

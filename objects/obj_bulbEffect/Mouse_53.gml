@@ -1,0 +1,1 @@
+part_particles_create(ps, mouse_x, mouse_y, part_glow_stay, 1);

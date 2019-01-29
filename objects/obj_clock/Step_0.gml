@@ -29,11 +29,13 @@ for (var i=0; i<num_lights; i++) {
 		default:
 	}
 	
+	var _has_hand = false;
+	
 	for (var j=0; j<num_hands; j++) {
 		if (abs(angle_difference(hands[j].image_angle, lights[i].angle)) <= hand_pointing_threshold) {
 			lights[i].shutoff_timer--;
 			
-			if (lights[i].shutoff_timer <= 0) {
+			if (lights[i].shutoff_timer == 0) {
 				if (lights[i].state >= lightState.onSp) {
 					// update_meter(obj_game_config.sp_bulb_delta);
 				}
@@ -43,6 +45,8 @@ for (var i=0; i<num_lights; i++) {
 				}
 				
 				restockFreeLight();
+				lights[i].emitter_index = stopStayEmitter(lights[i].emitter_index);
+				pulseDoneEmitter(lights[i].x, lights[i].y);
 			
 				//Score and level up
 				//update_score(1);
@@ -78,10 +82,21 @@ for (var i=0; i<num_lights; i++) {
 			
 				var _delay_time = obj_gameConfig.bulb_delay_time[level];
 				alarm[_index] = _delay_time[0] + random(_delay_time[1]);
-			
-				break;
 			}
+			
+			else {
+				if (lights[i].emitter_index == -1) {
+					lights[i].emitter_index = startStayEmitter(lights[i].x, lights[i].y);
+				}
+			}
+			
+			_has_hand = true;
+			break;
 		}
+	}
+	
+	if (!_has_hand && lights[i].emitter_index != -1) {
+		lights[i].emitter_index = stopStayEmitter(lights[i].emitter_index);
 	}
 }
 

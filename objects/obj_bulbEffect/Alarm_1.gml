@@ -1,0 +1,1 @@
+stayEmitterStep(1);
