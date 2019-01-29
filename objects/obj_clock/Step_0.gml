@@ -58,7 +58,7 @@ for (var i=0; i<num_lights; i++) {
 					for (var k=0; k<_new_num_bulbs_active; k++) {
 						var _index_offset = obj_gameConfig.num_bulbs_active[level-1];
 						var _delay_time = obj_gameConfig.bulb_delay_time[level];
-						alarm[_index_offset + k] = _delay_time[0] + i*(0.25*room_speed) + random(_delay_time[1]);
+						alarm[_index_offset + k] = _delay_time[0] + k*(0.25*room_speed) + random(_delay_time[1]);
 					}
 				}
 			

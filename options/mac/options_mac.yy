@@ -9,7 +9,7 @@
     "option_mac_app_category": "Games",
     "option_mac_app_id": "com.quadolorgames.worker11812",
     "option_mac_build_app_store": false,
-    "option_mac_copyright": "(c) 2018 CompanyName",
+    "option_mac_copyright": "(c) 2019 Quadolor Games",
     "option_mac_display_cursor": true,
     "option_mac_display_name": "Worker #11812",
     "option_mac_enable_retina": false,
