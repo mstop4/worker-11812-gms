@@ -1,8 +1,8 @@
 var _light = getFreeLight();
 
-if (is_special[1])
-	toggleLight(_light, lightState.onSp);
+if (is_special[0])
+	with (_light) toggleLight(lightState.onSp);
 else
-	toggleLight(_light, lightState.on);
+	with (_light) toggleLight(lightState.on);
 	
-_light.timer_index = 1;
+_light.timer_index = 0;

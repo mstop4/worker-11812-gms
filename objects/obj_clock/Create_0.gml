@@ -11,6 +11,7 @@ for (var i=0; i<num_lights; i++) {
 	lights[i] = instance_create_layer(x + _offset_x, y + _offset_y, layer, obj_light);
 	lights[i].image_angle = _angle - 90;
 	lights[i].angle = _angle;
+	ds_list_add(free_lights, lights[i]);
 }
 
 hands = [];
