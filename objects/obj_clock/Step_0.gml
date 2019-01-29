@@ -37,7 +37,7 @@ for (var i=0; i<num_lights; i++) {
 			
 			if (lights[i].shutoff_timer == 0) {
 				if (lights[i].state >= lightState.onSp) {
-					// update_meter(obj_game_config.sp_bulb_delta);
+					updateMeter(obj_gameConfig.sp_bulb_delta);
 				}
 				
 				with (lights[i]) {
@@ -49,7 +49,7 @@ for (var i=0; i<num_lights; i++) {
 				pulseDoneEmitter(lights[i].x, lights[i].y);
 			
 				//Score and level up
-				//update_score(1);
+				updateScore(1);
 				if (points_to_level_up != 999)
 					points_to_level_up--;
 			
@@ -100,4 +100,4 @@ for (var i=0; i<num_lights; i++) {
 	}
 }
 
-// update_meter(_meter_delta);
+updateMeter(_meter_delta);

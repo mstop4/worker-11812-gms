@@ -19,7 +19,12 @@
         "245edb3f-b87c-449b-9d49-0971cff395af",
         "0bbb53dd-c345-414c-8659-8d07f0f9fec2",
         "0ca8a224-95b5-49eb-94e1-e475028897e3",
-        "2008e71f-5a69-4605-80e5-70b9d2509fbc"
+        "2008e71f-5a69-4605-80e5-70b9d2509fbc",
+        "7314eac5-ad1c-42c9-82b7-385f962f4f14",
+        "4cc67a8a-d423-48f5-9bee-f8095578a0da",
+        "570fe066-36ef-4af3-837e-9b5f48d5e8b9",
+        "de29fdfb-eeb1-4c2f-99ab-436d6bda102d",
+        "01d3197d-9c61-4ad2-b8fc-157134420b07"
     ],
     "filterType": "GMScript",
     "folderName": "scripts",

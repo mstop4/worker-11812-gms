@@ -1,0 +1,1 @@
+obj_ui.time_buffer = current_time - obj_ui.ref_time;
