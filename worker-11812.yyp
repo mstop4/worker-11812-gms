@@ -519,6 +519,14 @@
             }
         },
         {
+            "Key": "8a196d41-ea2d-4d0c-8693-43dabe51f073",
+            "Value": {
+                "id": "8d7739ee-8a43-4fd4-af00-b0c9285ceb3c",
+                "resourcePath": "views\\8a196d41-ea2d-4d0c-8693-43dabe51f073.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "8e01caac-570c-4abe-aadd-16106be66e3b",
             "Value": {
                 "id": "244c3cfe-bc9d-45b0-8151-536e755ea358",
@@ -804,14 +812,6 @@
                 "id": "9ccea6d4-2ed5-4c57-a76b-f0f2e51e18aa",
                 "resourcePath": "options\/mac\/options_mac.yy",
                 "resourceType": "GMMacOptions"
-            }
-        },
-        {
-            "Key": "f45734cf-40dd-472f-940b-8fdaccb55290",
-            "Value": {
-                "id": "75db0037-499c-4c98-87f7-a6680ac5ac29",
-                "resourcePath": "fonts\/fnt_Amarante20\/fnt_Amarante20.yy",
-                "resourceType": "GMFont"
             }
         },
         {
