@@ -27,6 +27,7 @@ for (var i=0; i<num_lights; i++) {
 			break;
 			
 		default:
+			break;
 	}
 	
 	var _has_hand = false;
