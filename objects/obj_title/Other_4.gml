@@ -7,6 +7,6 @@ with (obj_transition) {
 
 alarm[0] = 120;
 
-if (global.bgm == noone) {
-	global.bgm = audio_play_sound(mus_bgm2, 100, true);
+if (bgm == noone) {
+	bgm = audio_play_sound(mus_bgm2, 100, true);
 }

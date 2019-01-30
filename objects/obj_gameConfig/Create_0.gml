@@ -1,1 +1,2 @@
-global.bgm = noone;
+globalvar bgm;
+bgm = noone;

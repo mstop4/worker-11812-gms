@@ -71,3 +71,6 @@ enum lightState {
 	onSp,
 	flashSp
 }
+
+globalvar fnt_metropolis;
+fnt_metropolis = font_add_sprite_ext(spr_numbers,"1234567890:", true, 8);
