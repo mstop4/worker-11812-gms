@@ -14,6 +14,8 @@ ds_map_add(lightTheme, "textColour", c_black);
 ds_map_add(lightTheme, "linkColour", c_black);
 ds_map_add(lightTheme, "hoverColour", c_white);
 
+game_over_time = 180;
+
 flash_bulb_delta = 0.2;
 sp_bulb_delta = -52.1;
 bulb_deactivate_time = 45;

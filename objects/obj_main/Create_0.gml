@@ -5,6 +5,8 @@ with (obj_transition) {
 	alpha_delta = -1/60;
 }
 
+scene_over = false;
+
 alarm[0] = 60;
 bgm = audio_play_sound(mus_bgm1, 100, true);
 stopSteam();

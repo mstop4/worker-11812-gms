@@ -471,6 +471,14 @@
             }
         },
         {
+            "Key": "7942a354-3223-4447-af21-80ca7e8222a2",
+            "Value": {
+                "id": "edb90f6f-5abd-4aba-8b9f-a33735309525",
+                "resourcePath": "objects\\obj_gameover\\obj_gameover.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "79841cce-c8cc-4b1b-bac2-ef4a5ca13002",
             "Value": {
                 "id": "706b23da-fa07-4cd3-974d-739db3d3c3ba",
@@ -524,6 +532,14 @@
                 "id": "8d7739ee-8a43-4fd4-af00-b0c9285ceb3c",
                 "resourcePath": "views\\8a196d41-ea2d-4d0c-8693-43dabe51f073.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "8d2afde0-736d-4bec-b8e3-a2c05ff3395e",
+            "Value": {
+                "id": "952019ed-f03f-4e9e-9ecf-76ec20b301fc",
+                "resourcePath": "rooms\\room_gameover\\room_gameover.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -588,6 +604,14 @@
                 "id": "16b60652-d40e-4751-a0bc-6af1ac1c56c7",
                 "resourcePath": "views\/936111e9-efa8-4214-ace2-67e44ca4b4f5.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "9d654b9e-274e-4078-b721-62f987394b8f",
+            "Value": {
+                "id": "08b284c5-653a-4640-b7de-5e169f5b7765",
+                "resourcePath": "scripts\\setGameOver\\setGameOver.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -860,6 +884,7 @@
         "fa563c07-fb2b-4de4-81fa-bab914e2cf7a",
         "7314eac5-ad1c-42c9-82b7-385f962f4f14",
         "4ac3cc7e-6203-4452-a27c-a70ca3bc5893",
+        "9d654b9e-274e-4078-b721-62f987394b8f",
         "0fadfa5f-884c-49a4-9587-64ad8d23c318",
         "c44d0323-de38-4b70-ae97-22ee335aa4b9",
         "ed31a629-2c38-409a-8195-e57b7864fb93",
