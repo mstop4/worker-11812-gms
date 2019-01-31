@@ -13,5 +13,8 @@ with (obj_steam) {
 		part_emitter_stream(ps, emitterL, part_cloudL, emitter_rate);
 		part_emitter_stream(ps, emitterR, part_cloudR, emitter_rate);
 		layer_background_alpha(fog_layer, _intensity);
+		if (numbers_layer != -1) {
+			layer_background_alpha(numbers_layer, _intensity);
+		}
 	}
 }

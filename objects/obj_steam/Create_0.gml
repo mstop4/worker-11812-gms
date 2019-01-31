@@ -21,6 +21,12 @@ part_type_alpha2(part_cloudR, 0.375, 0);
 var _layer = layer_get_id("Fog");
 fog_layer = layer_background_get_id(_layer);
 
+_layer = layer_get_id("Clock_Numbers");
+if (layer_exists(_layer))
+	numbers_layer = layer_background_get_id(_layer);
+else
+	numbers_layer = -1;
+
 emitterL = part_emitter_create(ps);
 part_emitter_region(ps, emitterL, 
 					0, 0, obj_gameConfig.appCenterY, obj_gameConfig.appCenterY,
