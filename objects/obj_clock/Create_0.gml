@@ -15,7 +15,6 @@ for (var i=0; i<num_lights; i++) {
 }
 
 hands = [];
-hand_taken = noone;
 
 for (var i=0; i<num_hands; i++) {
 	if (i == 2)
@@ -25,8 +24,8 @@ for (var i=0; i<num_hands; i++) {
 }
 
 hands[0].image_angle = 0;
-hands[1].image_angle = 180;
-hands[2].image_angle = 270;
+hands[1].image_angle = 266;
+hands[2].image_angle = 188;
 
 for (var i=0; i<16; i++) {
 	is_special[i] = false;
