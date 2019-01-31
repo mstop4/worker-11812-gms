@@ -34,14 +34,14 @@ points_to_level_up = [
 ];
 
 bulb_delay_time = [      // in frames
-    [0.8*room_speed, 1.0*room_speed],
-    [0.5*room_speed, 0.7*room_speed],
-    [0.3*room_speed, 0.5*room_speed],
-    [0.9*room_speed, 1.1*room_speed],
-    [0.7*room_speed, 0.9*room_speed],
-    [0.5*room_speed, 0.7*room_speed],
-    [0.4*room_speed, 0.6*room_speed],
-    [0.3*room_speed, 0.5*room_speed]
+	[45, 15],
+	[24, 12],
+	[12, 6],
+	[48, 12],
+	[33, 12],
+	[21, 9],
+	[12, 6],
+	[9, 3]
 ];
 
 num_bulbs_active = [
@@ -56,9 +56,9 @@ num_bulbs_active = [
 ];
 
 sp_bulb_delay_turns = [ // in turns
-    2,
     5,
-    5,
+    10,
+    10,
     10,
     10,
     10,
