@@ -6,3 +6,7 @@ with (obj_transition) {
 }
 
 obj_gameover.alarm[2] = 90;
+
+with (obj_button) {
+	can_click = false;
+}

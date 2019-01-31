@@ -6,3 +6,7 @@ with (obj_transition) {
 }
 
 obj_credits.alarm[1] = 60;
+
+with (obj_button) {
+	can_click = false;
+}

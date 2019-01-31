@@ -6,3 +6,7 @@ with (obj_transition) {
 }
 
 obj_title.alarm[2] = 60;
+
+with (obj_button) {
+	can_click = false;
+}

@@ -834,7 +834,7 @@
             "Key": "eb64ea00-bb5e-4c92-adb0-418cfdea011c",
             "Value": {
                 "id": "8dabddf9-cd93-44ab-8ea1-1f916c526113",
-                "resourcePath": "fonts\/fnt_Fondamento128\/fnt_Fondamento128.yy",
+                "resourcePath": "fonts\\fnt_Fondamento128\\fnt_Fondamento128.yy",
                 "resourceType": "GMFont"
             }
         },
