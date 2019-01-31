@@ -4,6 +4,7 @@ progress = abs(_diff) < 1 ? actual_progress : progress + _diff / 8;
 if (progress >= max_progress && !obj_main.scene_over) {
     setGameOver();
     setSteamIntensity(1, true);
+	screenShake(4);
 }
 
 else {

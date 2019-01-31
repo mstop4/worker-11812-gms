@@ -5,4 +5,5 @@ with (obj_transition) {
 	alpha_delta = -1/120;
 }
 
+screenShake(0);
 alarm[0] = 120;
