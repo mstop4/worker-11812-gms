@@ -75,4 +75,7 @@ enum lightState {
 }
 
 globalvar fnt_metropolis;
-fnt_metropolis = font_add_sprite_ext(spr_numbers,"1234567890:", true, 8);
+if (os_browser == browser_not_a_browser)
+	fnt_metropolis = font_add_sprite_ext(spr_numbers,"1234567890:", false, 0);
+else
+	fnt_metropolis = font_add_sprite_ext(spr_numbers,"1234567890:", true, 8);
