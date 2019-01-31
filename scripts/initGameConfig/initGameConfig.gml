@@ -66,6 +66,15 @@ sp_bulb_delay_turns = [ // in turns
     10
 ];
 
+end_quotes = [
+	"\"Moloch!\"",
+	"\"Such accidents are unavoidable.\"",
+	"\"It was their hands that built\nthis city of ours, father\"",
+	"\"Father–! Father–!\nWill ten hours never end––??!!\""
+];
+
+num_quotes = array_length_1d(end_quotes);
+
 enum lightState {
 	off,
 	on,

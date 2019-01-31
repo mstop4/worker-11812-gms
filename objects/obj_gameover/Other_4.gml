@@ -7,4 +7,5 @@ with (obj_transition) {
 
 screenShake(0);
 bgm = noone;
+quote_index = irandom(obj_gameConfig.num_quotes-1);
 alarm[0] = 120;

@@ -7,3 +7,7 @@ with (obj_transition) {
 
 obj_title.alarm[3] = 75;
 audio_sound_gain(bgm, 0, 1250);
+
+with (obj_button) {
+	can_click = false;
+}
