@@ -9,4 +9,5 @@ alarm[0] = 120;
 
 if (bgm == noone) {
 	bgm = audio_play_sound(mus_bgm2, 100, true);
+	audio_sound_gain(bgm, 1, 0);
 }

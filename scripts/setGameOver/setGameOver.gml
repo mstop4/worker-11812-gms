@@ -10,4 +10,5 @@ with (obj_transition) {
 	alpha_delta = 1/(obj_gameConfig.game_over_time - 60);
 }
 
+obj_ui.timer_running = false;
 audio_sound_gain(bgm, 0, obj_gameConfig.game_over_time * 100/6);

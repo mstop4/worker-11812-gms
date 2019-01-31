@@ -6,4 +6,5 @@ with (obj_transition) {
 }
 
 screenShake(0);
+bgm = noone;
 alarm[0] = 120;
