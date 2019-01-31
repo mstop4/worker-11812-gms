@@ -17,7 +17,8 @@ else {
 
     else if (_ratio < 1.0 && is_flashing) {
 	    image_speed = 0;
-	    is_flashing = true;
+		image_index = 0;
+	    is_flashing = false;
     }
 
     if (_ratio >= 0.5) {
