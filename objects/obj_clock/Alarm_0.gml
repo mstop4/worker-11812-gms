@@ -1,6 +1,6 @@
 var _light = getFreeLight();
 
-if (_light.object_index == obj_light) {
+if (instance_exists(_light) && _light.object_index == obj_light) {
 	if (is_special[0])
 		with (_light) toggleLight(lightState.onSp);
 	else
