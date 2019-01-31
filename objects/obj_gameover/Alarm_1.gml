@@ -1,1 +1,1 @@
-room_goto(room_credits);
+room_goto(room_main);

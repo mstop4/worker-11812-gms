@@ -327,6 +327,14 @@
             }
         },
         {
+            "Key": "5106a3e9-e076-4481-b70d-5642effb15b6",
+            "Value": {
+                "id": "0127686c-23ca-45ba-8b7e-55fa7fd16b1f",
+                "resourcePath": "scripts\\roomGameover_menuClick\\roomGameover_menuClick.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "570fe066-36ef-4af3-837e-9b5f48d5e8b9",
             "Value": {
                 "id": "41419769-644c-413d-8295-a3a5dea0399b",
@@ -647,6 +655,14 @@
             }
         },
         {
+            "Key": "a359939c-6c80-419c-8e26-d7a2068d30b0",
+            "Value": {
+                "id": "08a6bcef-b2f6-4edb-86be-1728a29f2f4c",
+                "resourcePath": "scripts\\roomGameover_retryClick\\roomGameover_retryClick.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "a84eaf0b-4f63-404f-bf15-fc7a272bfbf7",
             "Value": {
                 "id": "7f389b2a-f188-4690-bdd3-33df56a9a457",
@@ -892,6 +908,8 @@
         "1988e36d-8470-434e-81a0-cca1b959d5a0",
         "61f543f1-6bb0-4ad3-b4b2-d5c0d1a836c3",
         "d9eb8f05-42f0-4bd9-ad77-b0b25598f045",
+        "a359939c-6c80-419c-8e26-d7a2068d30b0",
+        "5106a3e9-e076-4481-b70d-5642effb15b6",
         "0dc9b2e4-2fa4-4d00-87df-4ee2c5769ae8",
         "091d18d9-fdf0-46b9-80a6-6199dba71987",
         "5d396108-f2dd-48f1-b475-c3f7d974997a",
