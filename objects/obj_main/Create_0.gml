@@ -1,3 +1,5 @@
+randomize();
+
 with (obj_transition) {
 	current_alpha = 1;
 	target_alpha = 0;
