@@ -1,3 +1,5 @@
+is_touching = [false, false, false];
+
 lights = [];
 free_lights = ds_list_create();
 used_lights = ds_queue_create();

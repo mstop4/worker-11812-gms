@@ -54,13 +54,17 @@
     "option_ios_splashscreen_iphone_ios8_55_portrait": "${base_options_dir}\\ios\\splash\\iphone_8_55_portrait.png",
     "option_ios_splashscreen_iphone_x_landscape": "${base_options_dir}\\ios\\splash\\iphone_x_landscape.png",
     "option_ios_splashscreen_iphone_x_portrait": "${base_options_dir}\\ios\\splash\\iphone_x_portrait.png",
+    "option_ios_splashscreen_iphone_xr_landscape": "${base_options_dir}\\ios\\splash\\iphone_xr_landscape.png",
+    "option_ios_splashscreen_iphone_xr_portrait": "${base_options_dir}\\ios\\splash\\iphone_xr_portrait.png",
+    "option_ios_splashscreen_iphone_xs_max_landscape": "${base_options_dir}\\ios\\splash\\iphone_xs_max_landscape.png",
+    "option_ios_splashscreen_iphone_xs_max_portrait": "${base_options_dir}\\ios\\splash\\iphone_xs_max_portrait.png",
     "option_ios_team_id": "",
     "option_ios_texture_page": "2048x2048",
     "option_ios_use_facebook": false,
     "option_ios_version": {
         "build": 0,
         "major": 1,
-        "minor": 0,
+        "minor": 2,
         "revision": 0
     }
 }

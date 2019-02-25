@@ -32,7 +32,7 @@
     "option_html5_version": {
         "build": 0,
         "major": 1,
-        "minor": 1,
+        "minor": 2,
         "revision": 0
     },
     "option_html5_webgl": 2
